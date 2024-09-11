@@ -30,7 +30,7 @@ Description of Project 2.
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/bhushan-lilhare-079497211)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/bhushan-lilhare-079497211/)
 - Twitter: [Your Twitter Profile](Your Twitter Profile Link)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
