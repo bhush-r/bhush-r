@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate Java developer with skills in Pyt
 
 ## 🚀 Projects
 
-### [Project Name 1](Link to Project 1)
+### [GHRCE CONNECT](Link to Project 1)
 ![Project 1](images/project1.png)
 
 Description of Project 1.
@@ -31,7 +31,7 @@ Description of Project 2.
 ## 📫 Let's Connect!
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/bhushan-lilhare-079497211/)
-- Twitter: [Your Twitter Profile](Your Twitter Profile Link)
+- Twitter: [Your Twitter Profile](https://x.com/bhushanlilhare1)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
 
