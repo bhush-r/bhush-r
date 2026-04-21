@@ -84,11 +84,11 @@ I'm passionate about building **innovative and efficient solutions** that make a
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhush-r&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhush-r&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhush-r&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)
 
 </div>
 
